@@ -79,7 +79,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.МобильныеУстройства</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonForm.НастройкиМобильногоУстройства</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.БотОфисМенеджер</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">ca5c0a5d-886d-4b6a-9900-3dc1796cb5d6</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СправочникДляЗадачи</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
